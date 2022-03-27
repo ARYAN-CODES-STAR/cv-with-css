@@ -1,0 +1,21 @@
+.aboutme{
+     background-color: rgb(235, 145, 12);
+}
+body{
+     text-color:green;
+    background-color: rgb(247, 127, 16);
+  }
+ 
+  hr{
+    background-color:yellow ;
+    border-style:dotted none none;
+    width:100px;
+    height:0px;
+  }
+  h1{
+      text-align: center;
+      background-color: white;
+  }
+  img{
+      border-color: blue;
+  }
